@@ -1,0 +1,36 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+    background-color: lavenderblush;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(39, 37, 37);
+    font-size: medium;
+}
+
+h2, h3 {
+    background-color: lavenderblush;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(39, 37, 37);
+}
+
+th, td {
+    background-color: floralwhite;
+}
+
+td {
+    color: deeppink;
+}
