@@ -9,4 +9,4 @@ P1 - Henry - uses of AI in transportation
 
 P2 - Belle - uses of AI in healthcare
 
-P3 - Imad
+P3 - Imad - AI: History and Progress
