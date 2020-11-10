@@ -1,0 +1,19 @@
+body { background-color: Black; }
+
+h1 { color: White; text-align: center; }
+
+h2 { color: White; text-align: left; }
+
+h3 { color: White; text-align: left; }
+
+ol { color: White; text-align: left; }
+
+p { color: White; "Times New Roman"; font-size: 15px; }
+
+a:link { color: Blue; }
+
+a:visited { color: Red; }
+
+a:hover{ color: Hotpink; }
+
+a:active { color: black; }
